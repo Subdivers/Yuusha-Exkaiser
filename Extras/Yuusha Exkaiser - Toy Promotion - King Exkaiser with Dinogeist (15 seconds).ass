@@ -6,8 +6,8 @@ PlayResX: 640
 PlayResY: 480
 
 [Aegisub Project Garbage]
-Audio File: Yuusha Exkaiser - Toy Promotion - King Exkaiser with Dinogeist (15 seconds).mkv
-Video File: Yuusha Exkaiser - Toy Promotion - King Exkaiser with Dinogeist (15 seconds).mkv
+Audio File: Yuusha Exkaiser - Toy Promotion - King Exkaiser with Dino Geist (15 seconds).mkv
+Video File: Yuusha Exkaiser - Toy Promotion - King Exkaiser with Dino Geist (15 seconds).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
@@ -23,7 +23,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,lang:en,ko;complete:true;song:song.*
 Comment: 0,0:00:00.00,0:00:05.93,Default,ja,0,0,0,,勇者エクスカイザー：キングエクスカイザー、ダイノガイスト付（15秒）
 Dialogue: 0,0:00:00.00,0:00:05.93,Default,ko,0,0,0,,용자 엑스카이저: 킹 엑스카이저 및 다이노가이스트 (15초)
-Dialogue: 0,0:00:00.00,0:00:05.93,Default,en,0,0,0,,Yuusha Exkaiser: King Exkaiser with Dinogeist (15 seconds)
+Dialogue: 0,0:00:00.00,0:00:05.93,Default,en,0,0,0,,Yuusha Exkaiser: King Exkaiser with Dino Geist (15 seconds)
 Comment: 0,0:00:07.14,0:00:09.54,Default,ja,0,0,0,,勇者エクスカイザーが今ここに！
 Dialogue: 0,0:00:07.14,0:00:09.54,Default,ko,0,0,0,,용자 엑스카이저가 지금 여기에!
 Dialogue: 0,0:00:07.14,0:00:09.54,Default,en,0,0,0,,Brave Fighter Exkaiser is right here!
@@ -35,4 +35,4 @@ Dialogue: 0,0:00:15.40,0:00:17.73,Default,ko,0,0,0,,용자 엑스카이저 최�
 Dialogue: 0,0:00:15.40,0:00:17.73,Default,en,0,0,0,,The strongest robot: King Exkaiser!
 Comment: 0,0:00:18.44,0:00:20.32,Default,ja,0,0,0,,3段変形ダイノガイスト！
 Dialogue: 0,0:00:18.44,0:00:20.32,Default,ko,0,0,0,,3단 변형 다이노가이스트!
-Dialogue: 0,0:00:18.44,0:00:20.32,Default,en,0,0,0,,Triple Changer Dinogeist!
+Dialogue: 0,0:00:18.44,0:00:20.32,Default,en,0,0,0,,Triple Changer Dino Geist!
