@@ -379,6 +379,18 @@ while (false !== ($f = readdir($dh))) {
 
 	$assfn = substr($f, 0, -4) . ".ass";
 	$srtfn = substr($f, 0, -4) . ".srt";
+	$subs = [];
+    
+    if (false !== strpos(file_get_contents("{$target_dir}en\\$assfn"), "{"))
+        $subs[] =
+            "--sub-charset 0:utf-8 --language 0:eng --track-name 0:\"English ASS\" \"{$target_dir}en\\$assfn\" " .
+            "--sub-charset 0:utf-8 --language 0:kor --track-name 0:\"한국어 ASS\" \"{$target_dir}ko\\$assfn\" " .
+            "--sub-charset 0:utf-8 --language 0:eng --track-name 0:\"English SRT\" \"{$target_dir}en\\$srtfn\" " .
+            "--sub-charset 0:utf-8 --language 0:kor --track-name 0:\"한국어 SRT\" \"{$target_dir}ko\\$srtfn\" ";
+    else
+        $subs[] =
+            "--sub-charset 0:utf-8 --language 0:eng --track-name 0:\"English\" \"{$target_dir}en\\$srtfn\" " .
+            "--sub-charset 0:utf-8 --language 0:kor --track-name 0:\"한국어\" \"{$target_dir}ko\\$srtfn\" ";
 	
 	$cmd="\"C:\\Program Files\\MKVToolNix\\mkvmerge.exe\" " . 
 		"-o \"{$target_dir}_tmp.mkv\" " .
@@ -386,11 +398,7 @@ while (false !== ($f = readdir($dh))) {
 		"--attachment-mime-type font/ttf --attach-file C:\\Windows\\Fonts\\candarab.ttf ".
 		"--attachment-mime-type font/ttf --attach-file C:\\Windows\\Fonts\\candaraz.ttf ".
 		"--language 0:jpn --language 1:jpn \"$mkv\" ".
-		"--sub-charset 0:utf-8 --language 0:eng --track-name 0:\"English ASS\" \"{$target_dir}en\\$assfn\" " .
-		"--sub-charset 0:utf-8 --language 0:kor --track-name 0:\"한국어 ASS\" \"{$target_dir}ko\\$assfn\" " .
-		"--sub-charset 0:utf-8 --language 0:eng --track-name 0:\"English SRT\" \"{$target_dir}en\\$srtfn\" " .
-		"--sub-charset 0:utf-8 --language 0:kor --track-name 0:\"한국어 SRT\" \"{$target_dir}ko\\$srtfn\" " .
-		"";
+        implode(" ", $subs);
 	$cmd=iconv("utf-8", "euc-kr", $cmd);
 	echo $cmd."\n";
 	system($cmd);
