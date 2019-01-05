@@ -28,7 +28,7 @@ Style: EpisodeTitle,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.76,0:00:18.76,SeriesTitle,,0,0,0,,{\pos(334.133,309.733)}Brave{\fscx900} {\r}Exkaiser
+Dialogue: 0,0:00:14.76,0:00:18.76,SeriesTitle,,0,0,0,,{\pos(334.133,309.733)\fad(150,270)}Brave{\fscx900} {\r}Exkaiser
 Dialogue: 0,0:00:18.66,0:00:24.33,SongOP,,0,0,0,,Over a million of them shine with a blue light
 Dialogue: 0,0:00:24.96,0:00:31.01,SongOP,,0,0,0,,The shards of love have scattered
 Dialogue: 0,0:00:31.42,0:00:38.01,SongOP,,0,0,0,,It's brewing in this world
