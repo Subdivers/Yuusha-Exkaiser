@@ -23,17 +23,16 @@ Video Position: 5891
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: perus,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
-Style: otsikko,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
-Style: perus2,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
-Style: Song2end,方正准圆_GBK,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,30,1
-Style: otsikkobrave,Impact,40,&H003D3E9D,&H0000D2FF,&H002DA9B8,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,3.4,5,10,10,10,1
-Style: Song2,方正准圆_GBK,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,10,1
-Style: Song,方正准圆_GBK,26,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+Style: NextEpisodePreview,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: EpisodeTitle,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
+Style: Song2end,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,30,1
+Style: SeriesTitle,Impact,40,&H003D3E9D,&H0000D2FF,&H002DA9B8,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,3.4,5,10,10,10,1
+Style: Song2,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,10,1
+Style: Song,Arial,26,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.66,0:00:18.83,otsikkobrave,,0,0,0,,{\pos(334.133,309.733)}Brave         Exkaiser
+Dialogue: 0,0:00:14.66,0:00:18.83,SeriesTitle,,0,0,0,,{\pos(334.133,309.733)}Brave         Exkaiser
 Dialogue: 0,0:00:18.66,0:00:24.33,Song2,,0,0,0,,Over a million of them shine with a blue light
 Dialogue: 0,0:00:24.96,0:00:31.01,Song2,,0,0,0,,The shards of love have scattered
 Dialogue: 0,0:00:31.42,0:00:38.01,Song2,,0,0,0,,It's brewing in this world
@@ -53,7 +52,7 @@ Dialogue: 0,0:01:52.05,0:01:56.74,Default,,0,0,0,!Effect,However, in front of th
 Dialogue: 0,0:01:57.10,0:01:59.66,Default,,0,0,0,!Effect,a hero appeared, who completely stood in their way.
 Dialogue: 0,0:02:00.76,0:02:03.16,Default,,0,0,0,!Effect,He is the cosmic police, Exkaiser.
 Dialogue: 0,0:02:03.40,0:02:09.99,Default,,0,0,0,!Effect,This is the story of Brave Exkaiser and his friends, who fight against evil all around the universe.
-Dialogue: 0,0:02:13.30,0:02:18.60,otsikko,,0,0,0,,{\pos(324.8,324.4)}Burning Movie Town
+Dialogue: 0,0:02:13.30,0:02:18.60,EpisodeTitle,,0,0,0,,{\pos(324.8,324.4)}Burning Movie Town
 Dialogue: 0,0:02:21.20,0:02:22.52,Default,,0,0,0,,{\pos(216,266.8)}Drive Theater
 Dialogue: 0,0:02:35.86,0:02:37.99,Default,,0,0,0,,What a huge screen!
 Dialogue: 0,0:02:40.94,0:02:41.84,Default,,0,0,0,,{\pos(211.2,31.6)}Ice cream
@@ -350,7 +349,7 @@ Dialogue: 0,0:23:06.78,0:23:15.12,Song2end,,0,0,0,,Dreams get bigger strongly an
 Dialogue: 0,0:23:15.12,0:23:22.75,Song2end,,0,0,0,,Don't forget to be who you are
 Dialogue: 0,0:23:22.79,0:23:31.05,Song2end,,0,0,0,,Embrace your enthusiastic heart
 Dialogue: 0,0:23:31.05,0:23:39.06,Song2end,,0,0,0,,And try walking that path
-Dialogue: 0,0:23:44.20,0:23:45.89,perus,,0,0,0,,{\pos(323.74,316.267)}NEXT EPISODE PREVIEW
+Dialogue: 0,0:23:44.20,0:23:45.89,NextEpisodePreview,,0,0,0,,{\pos(323.74,316.267)}NEXT EPISODE PREVIEW
 Dialogue: 0,0:23:46.55,0:23:50.40,Default,,0,0,0,,It's time for the once in a year date for Orihime and Hikoboshi.
 Dialogue: 0,0:23:50.40,0:23:51.92,Default,,0,0,0,,That's right, it's Tanabata!
 Dialogue: 0,0:23:51.92,0:23:56.79,Default,,0,0,0,,I promised with Kotomi-chan that we would go see the Tanabata stars with the latest telescope!

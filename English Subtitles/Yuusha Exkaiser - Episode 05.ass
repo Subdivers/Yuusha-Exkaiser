@@ -7,16 +7,25 @@ PlayResY: 480
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: ../Videos/Yuusha Exkaiser - Episode 05[73840CDA].mkv
-Video File: ../Videos/Yuusha Exkaiser - Episode 05[73840CDA].mkv
+Audio File: C:/Users/SP/Downloads/[C-M &PDSG] Yuusha Exkaiser/[C-M_&_PDSG]_Brave_Exkaiser_-_05_[875DFA6A].avi
+Video File: C:/Users/SP/Downloads/[C-M &PDSG] Yuusha Exkaiser/[C-M_&_PDSG]_Brave_Exkaiser_-_05_[875DFA6A].avi
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Video Position: 402
+Video Zoom Percent: 0.500000
+Scroll Position: 131
+Active Line: 172
+Video Position: 16887
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.66667,0,2,17,17,17,0
+Style: Default,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Song,Arial,26,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+Style: NextEpisodePreview,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: EpisodeTitle,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
+Style: SongMidEp,Arial,26,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+Style: Song2end,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,30,1
+Style: SeriesTitle,Impact,40,&H003D3E9D,&H0000D2FF,&H002DA9B8,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,3.4,5,10,10,10,1
+Style: Song2,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -53,7 +62,7 @@ Dialogue: 0,0:02:38.84,0:02:41.45,Default,,0,0,0,,Shut up! I've had it with your
 Dialogue: 0,0:02:41.71,0:02:44.25,Default,,0,0,0,,Next time this happens, I'll take three months of your pay!
 Dialogue: 0,0:02:46.78,0:02:48.93,Default,,0,0,0,,That's right... I'm on the short end of the stick...
 Dialogue: 0,0:02:50.13,0:02:55.08,Default,,0,0,0,,Never give up! Scoop is my name, and scoop is my game!
-Dialogue: 0,0:02:56.27,0:02:57.61,Default,,0,0,0,,MAGMA MAGMA MAGMA MAGMA MAGMA 
+Dialogue: 0,0:02:56.27,0:02:57.61,Default,,0,0,0,,MAGMA MAGMA MAGMA MAGMA MAGMA
 Dialogue: 0,0:03:00.00,0:03:02.99,Default,,0,0,0,,And if I have these, I'll be number one in Japan!
 Dialogue: 0,0:03:06.24,0:03:08.02,Default,,0,0,0,,Very Very Power Up!
 Dialogue: 0,0:03:13.56,0:03:14.30,Default,,0,0,0,,Joanna...
@@ -69,7 +78,7 @@ Dialogue: 0,0:03:40.37,0:03:42.54,Default,,0,0,0,,...take Magma Drink and Power 
 Dialogue: 0,0:03:42.75,0:03:43.66,Default,,0,0,0,,Very Very!
 Dialogue: 0,0:03:43.82,0:03:44.93,Default,,0,0,0,,Power Up!
 Dialogue: 0,0:03:45.05,0:03:46.17,Default,,0,0,0,,Very Very!
-Dialogue: 0,0:03:46.25,0:03:48.70,Default,,0,0,0,,Gulp gulp gulp gulp gulp 
+Dialogue: 0,0:03:46.25,0:03:48.70,Default,,0,0,0,,Gulp gulp gulp gulp gulp
 Dialogue: 0,0:03:50.21,0:03:52.73,Default,,0,0,0,,Magma Power!
 Dialogue: 0,0:03:55.67,0:03:58.12,Default,,0,0,0,,Take Magma Drink and Very Very Power Up!
 Dialogue: 0,0:03:58.85,0:04:00.68,Default,,0,0,0,,Hey, if we had that...
@@ -192,7 +201,7 @@ Dialogue: 0,0:11:23.22,0:11:26.17,Default,,0,0,0,,I was told that Fuuko was brou
 Dialogue: 0,0:11:26.45,0:11:30.45,Default,,0,0,0,,It's just a simple cold. Looks like she overheated herself.
 Dialogue: 0,0:11:30.65,0:11:33.93,Default,,0,0,0,,Diet... Only 3 more kilograms...
 Dialogue: 0,0:11:34.84,0:11:36.80,Default,,0,0,0,,Fuuko, get a hold of yourself!
-Dialogue: 0,0:11:44.32,0:11:45.81,Default,,0,0,0,,약...약국이!
+Dialogue: 0,0:11:44.32,0:11:45.81,Default,,0,0,0,,The pharmacy...
 Dialogue: 0,0:11:46.24,0:11:48.64,Default,,0,0,0,,Eh!? This was where the medicine was!?
 Dialogue: 0,0:11:49.25,0:11:50.49,Default,,0,0,0,,How could this happen...
 Dialogue: 0,0:11:50.76,0:11:52.73,Default,,0,0,0,,Is there any way to replenish the medicine in storage?

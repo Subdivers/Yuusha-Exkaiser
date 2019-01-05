@@ -23,15 +23,15 @@ Video Position: 34770
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: otsikko,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
-Style: perus,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
-Style: otsikkobrave,Impact,40,&H003D3E9D,&H0000D2FF,&H002DA9B8,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,3.4,5,10,10,10,1
-Style: Song2,方正准圆_GBK,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,10,1
-Style: Song2end,方正准圆_GBK,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,30,1
+Style: EpisodeTitle,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
+Style: NextEpisodePreview,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: SeriesTitle,Impact,40,&H003D3E9D,&H0000D2FF,&H002DA9B8,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,3.4,5,10,10,10,1
+Style: Song2,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,10,1
+Style: Song2end,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.95,0:00:18.58,otsikkobrave,,0,0,0,,{\pos(334.133,309.733)}Brave         Exkaiser
+Dialogue: 0,0:00:14.95,0:00:18.58,SeriesTitle,,0,0,0,,{\pos(334.133,309.733)}Brave         Exkaiser
 Dialogue: 0,0:00:18.66,0:00:24.33,Song2,,0,0,0,,Over a million of them shine with a blue light
 Dialogue: 0,0:00:24.96,0:00:31.01,Song2,,0,0,0,,The shards of love have scattered
 Dialogue: 0,0:00:31.42,0:00:38.01,Song2,,0,0,0,,It's brewing in this world
@@ -44,14 +44,14 @@ Dialogue: 0,0:00:57.28,0:01:03.12,Song2,,0,0,0,,That moment when we join our str
 Dialogue: 0,0:01:03.75,0:01:06.67,Song2,,0,0,0,,GO WITH ME Exkaiser
 Dialogue: 0,0:01:07.08,0:01:10.04,Song2,,0,0,0,,I'd almost forgotten it
 Dialogue: 0,0:01:10.17,0:01:18.39,Song2,,0,0,0,,The fiery burning and important PASSIONATE feeling in my heart
-Dialogue: 0,0:01:35.10,0:01:37.13,perus,NTP,0,0,0,!Effect,The mysterious and vast universe.
-Dialogue: 0,0:01:42.58,0:01:47.89,perus,NTP,0,0,0,!Effect,In this universe exists the evil life forms, \Nthe space pirates Geisters
-Dialogue: 0,0:01:48.17,0:01:51.38,perus,NTP,0,0,0,!Effect,who've invaded Earth in order to obtain the treasures of mankind.
-Dialogue: 0,0:01:52.05,0:01:56.74,perus,NTP,0,0,0,!Effect,However, in front of the Geisters who use destruction and plunder as they wish
-Dialogue: 0,0:01:57.10,0:01:59.66,perus,NTP,0,0,0,!Effect,a hero appeared, who completely stood in their way.
-Dialogue: 0,0:02:00.76,0:02:03.16,perus,NTP,0,0,0,!Effect,He is the cosmic police, Exkaiser.
-Dialogue: 0,0:02:03.40,0:02:09.99,perus,NTP,0,0,0,!Effect,This is the story of Brave Exkaiser and his friends, who fight against evil all around the universe.
-Dialogue: 0,0:02:13.60,0:02:18.57,otsikko,,0,0,0,,{\pos(323.208,383.6)}Mt. Fuji Explodes!?
+Dialogue: 0,0:01:35.10,0:01:37.13,Default,,0,0,0,,The mysterious and vast universe.
+Dialogue: 0,0:01:42.58,0:01:47.89,Default,,0,0,0,,In this universe exists the evil life forms, \Nthe space pirates Geisters
+Dialogue: 0,0:01:48.17,0:01:51.38,Default,,0,0,0,,who've invaded Earth in order to obtain the treasures of mankind.
+Dialogue: 0,0:01:52.05,0:01:56.74,Default,,0,0,0,,However, in front of the Geisters who use destruction and plunder as they wish
+Dialogue: 0,0:01:57.10,0:01:59.66,Default,,0,0,0,,a hero appeared, who completely stood in their way.
+Dialogue: 0,0:02:00.76,0:02:03.16,Default,,0,0,0,,He is the cosmic police, Exkaiser.
+Dialogue: 0,0:02:03.40,0:02:09.99,Default,,0,0,0,,This is the story of Brave Exkaiser and his friends, who fight against evil all around the universe.
+Dialogue: 0,0:02:13.60,0:02:18.57,EpisodeTitle,,0,0,0,,{\pos(323.208,383.6)}Mt. Fuji Explodes!?
 Dialogue: 0,0:02:36.09,0:02:38.46,Default,,0,0,0,,{\frz19.96\pos(243.008,138.8)}Touto Newspaper Company
 Dialogue: 0,0:02:41.34,0:02:44.25,Default,,0,0,0,,Hello! This is Touto Newspaper.
 Dialogue: 0,0:02:44.62,0:02:46.05,Default,,0,0,0,,Eh? Okay, I got it!
@@ -325,7 +325,7 @@ Dialogue: 0,0:23:06.78,0:23:15.12,Song2end,,0,0,0,,Dreams get bigger strongly an
 Dialogue: 0,0:23:15.12,0:23:22.75,Song2end,,0,0,0,,Don't forget to be who you are
 Dialogue: 0,0:23:22.79,0:23:31.05,Song2end,,0,0,0,,Embrace your enthusiastic heart
 Dialogue: 0,0:23:31.05,0:23:39.06,Song2end,,0,0,0,,And try walking that path
-Dialogue: 0,0:23:44.10,0:23:45.79,perus,,0,0,0,,{\pos(312.512,306.667)}NEXT EPISODE PREVIEW
+Dialogue: 0,0:23:44.10,0:23:45.79,NextEpisodePreview,,0,0,0,,{\pos(312.512,306.667)}NEXT EPISODE PREVIEW
 Dialogue: 0,0:23:47.56,0:23:50.98,Default,,0,0,0,,Has everyone already figured out what to give as a present on Mother's Day?
 Dialogue: 0,0:23:50.99,0:23:55.51,Default,,0,0,0,,Mr. Tokuda invited her countryside mother to the World Fair of Flowers.
 Dialogue: 0,0:23:55.51,0:23:57.90,Default,,0,0,0,,And of course, we're tagging along!

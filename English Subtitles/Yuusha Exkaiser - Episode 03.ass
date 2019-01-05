@@ -17,7 +17,14 @@ Video Position: 34192
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.66667,0,8,17,17,17,0
+Style: Default,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Song,Arial,26,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+Style: NextEpisodePreview,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: EpisodeTitle,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
+Style: SongMidEp,Arial,26,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+Style: Song2end,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,30,1
+Style: SeriesTitle,Impact,40,&H003D3E9D,&H0000D2FF,&H002DA9B8,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,3.4,5,10,10,10,1
+Style: Song2,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -232,8 +239,8 @@ Dialogue: 0,0:15:39.56,0:15:40.21,Default,,0,0,0,,Shit!
 Dialogue: 0,0:15:40.40,0:15:42.10,Default,,0,0,0,,You guys, combine!
 Dialogue: 0,0:15:48.12,0:15:49.21,Default,,0,0,0,,Damn, It's huge!
 Dialogue: 0,0:15:56.69,0:15:58.18,Default,,0,0,0,,All right, now's our chance!
-Dialogue: 0,0:16:00.00,0:16:01.02,Default,,0,0,0,,멈춰라!
-Dialogue: 0,0:16:20.20,0:16:21.64,Default,,0,0,0,,엑스카이저!
+Dialogue: 0,0:16:00.00,0:16:01.02,Default,,0,0,0,,Stop!
+Dialogue: 0,0:16:20.20,0:16:21.64,Default,,0,0,0,,Exkaiser!
 Dialogue: 0,0:16:39.68,0:16:42.18,Default,,0,0,0,,Change, Blue Raker!
 Dialogue: 0,0:16:42.94,0:16:45.29,Default,,0,0,0,,Change, Green Raker!
 Dialogue: 0,0:16:49.18,0:16:51.10,Default,,0,0,0,,Raker Brothers!

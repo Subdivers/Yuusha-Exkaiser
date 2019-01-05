@@ -23,30 +23,17 @@ Video Position: 32843
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Song,方正准圆_GBK,26,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
-Style: perus,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
-Style: otsikko,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
-Style: SongNÄTTI,Aparajita,35,&H00FFFFFF,&HFFFFFFFF,&HFF000000,&HE1000000,-1,-1,0,0,100,100,0,0,1,1,1.1,8,10,10,10,1
-Style: perus2,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
-Style: puhesälä,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
-Style: Songylhäll,方正准圆_GBK,26,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
-Style: fancy otsikko,Impact,35,&H0090CDC6,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: fancyotsikko2,Impact,31,&H00C0AFAD,&H00A38A8D,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,0.8,1,2,10,10,10,1
-Style: fancy3,Small Fonts,29,&H00845EB8,&H000000FF,&H003A3447,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,2,10,10,10,1
-Style: SongOVA,方正准圆_GBK,25,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
-Style: JPOVA,EPSON 太丸ゴシック体Ｂ,28,&H00FFFFFF,&HFF000000,&HFFFFFFFF,&HE1000000,-1,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
-Style: JP,EPSON 太丸ゴシック体Ｂ,28,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,0,0,0,0,100,100,0,0,1,1,0,2,10,10,51,1
-Style: Song2end,方正准圆_GBK,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,30,1
-Style: otsikkobrave,Impact,40,&H003D3E9D,&H0000D2FF,&H002DA9B8,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,3.4,5,10,10,10,1
-Style: Song2,方正准圆_GBK,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,10,1
-Style: otsikkogoldran,Stencil Std,35,&H0029B0DD,&H0075C6EC,&H002C6789,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,3.4,5,10,10,10,1
-Style: walter,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: magic girl,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: shalarnla,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Song,Arial,26,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+Style: NextEpisodePreview,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: EpisodeTitle,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
+Style: SongMidEp,Arial,26,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+Style: Song2end,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,30,1
+Style: SeriesTitle,Impact,40,&H003D3E9D,&H0000D2FF,&H002DA9B8,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,3.4,5,10,10,10,1
+Style: Song2,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.70,0:00:18.83,otsikkobrave,,0,0,0,,{\pos(334.133,309.733)}Brave         Exkaiser
+Dialogue: 0,0:00:14.70,0:00:18.83,SeriesTitle,,0,0,0,,{\pos(334.133,309.733)}Brave         Exkaiser
 Dialogue: 0,0:00:18.66,0:00:24.33,Song2,,0,0,0,,Over a million of them shine with a blue light
 Dialogue: 0,0:00:24.96,0:00:31.01,Song2,,0,0,0,,The shards of love have scattered
 Dialogue: 0,0:00:31.42,0:00:38.01,Song2,,0,0,0,,It's brewing in this world
@@ -66,7 +53,7 @@ Dialogue: 0,0:01:52.05,0:01:56.74,Default,,0,0,0,!Effect,However, in front of th
 Dialogue: 0,0:01:57.10,0:01:59.66,Default,,0,0,0,!Effect,a hero appeared, who completely stood in their way.
 Dialogue: 0,0:02:00.76,0:02:03.16,Default,,0,0,0,!Effect,He is the cosmic police, Exkaiser.
 Dialogue: 0,0:02:03.40,0:02:09.99,Default,,0,0,0,!Effect,This is the story of Brave Exkaiser and his friends, who fight against evil all around the universe.
-Dialogue: 0,0:02:13.26,0:02:18.60,otsikko,,0,0,0,,{\pos(331.2,380.4)}Our Olympics
+Dialogue: 0,0:02:13.26,0:02:18.60,EpisodeTitle,,0,0,0,,{\pos(331.2,380.4)}Our Olympics
 Dialogue: 0,0:02:24.90,0:02:27.74,Default,,0,0,0,,The torch has returned to Japan once again!
 Dialogue: 0,0:02:27.74,0:02:30.64,Default,,0,0,0,,And the competitors are also \Narriving one after another.
 Dialogue: 0,0:02:30.90,0:02:35.30,Default,,0,0,0,,There's no doubt, that the most notable athlete in this year's Olympics
@@ -318,7 +305,7 @@ Dialogue: 0,0:23:06.78,0:23:15.12,Song2end,,0,0,0,,Dreams get bigger strongly an
 Dialogue: 0,0:23:15.12,0:23:22.75,Song2end,,0,0,0,,Don't forget to be who you are
 Dialogue: 0,0:23:22.79,0:23:31.05,Song2end,,0,0,0,,Embrace your enthusiastic heart
 Dialogue: 0,0:23:31.05,0:23:39.06,Song2end,,0,0,0,,And try walking that path
-Dialogue: 0,0:23:44.28,0:23:46.06,perus,,0,0,0,,{\pos(323.74,314.667)}NEXT EPISODE PREVIEW
+Dialogue: 0,0:23:44.28,0:23:46.06,NextEpisodePreview,,0,0,0,,{\pos(323.74,314.667)}NEXT EPISODE PREVIEW
 Dialogue: 0,0:23:47.08,0:23:51.26,Default,,0,0,0,,Soon a concert will be held for Exkaiser.
 Dialogue: 0,0:23:51.26,0:23:53.70,Default,,0,0,0,,And Kotomi-chan will play the piano there!
 Dialogue: 0,0:23:53.70,0:23:56.48,Default,,0,0,0,,I promised to bring her flowers before her performance!
