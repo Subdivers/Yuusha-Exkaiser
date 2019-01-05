@@ -45,7 +45,7 @@ Dialogue: 0,0:00:36.65,0:00:39.93,Default,ko,0,0,0,,큰일이군! 놈들이 이 
 Dialogue: 0,0:00:36.65,0:00:39.93,Default,en,0,0,0,,Oh no! Those bastards are taking refuge in this planet!
 Comment: 0,0:00:40.44,0:00:42.09,Default,ja,0,0,0,,こちらは宇宙警察エクスカイザー！
 Dialogue: 0,0:00:40.44,0:00:42.09,Default,ko,0,0,0,,이쪽은 우주 경찰 엑스카이저!
-Dialogue: 0,0:00:40.44,0:00:42.09,Default,en,0,0,0,,This is Exkaiser of the Space Police!
+Dialogue: 0,0:00:40.44,0:00:42.09,Default,en,0,0,0,,This is Exkaiser of the cosmic police!
 Comment: 0,0:00:42.73,0:00:44.22,Default,ja,0,0,0,,ガイスターは地球へ逃げ込んだ！
 Dialogue: 0,0:00:42.73,0:00:44.22,Default,ko,0,0,0,,가이스터가 지구에 숨어들었다!
 Dialogue: 0,0:00:42.73,0:00:44.22,Default,en,0,0,0,,The Geisters have taken refuge in the Earth.
@@ -198,7 +198,7 @@ Dialogue: 0,0:06:36.50,0:06:38.90,Default,ko,0,0,0,,그 목소리... 너... 네�
 Dialogue: 0,0:06:36.50,0:06:38.90,Default,en,0,0,0,,That voice... you... you must be that...!
 Comment: 0,0:07:00.98,0:07:03.84,Default,ja,0,0,0,,チェンジ！エクスカイザー！
 Dialogue: 0,0:07:00.98,0:07:03.84,Default,ko,0,0,0,,체인지! 엑스카이저!
-Dialogue: 0,0:07:00.98,0:07:03.84,Default,en,0,0,0,,Change! Exkaiser!
+Dialogue: 0,0:07:00.98,0:07:03.84,Default,en,0,0,0,,Change,  Exkaiser!
 Comment: 0,0:07:08.04,0:07:09.84,Default,ja,0,0,0,,ろ、ロボットになっちゃった。
 Dialogue: 0,0:07:08.04,0:07:09.84,Default,ko,0,0,0,,로, 로봇이 됐어...
 Dialogue: 0,0:07:08.04,0:07:09.84,Default,en,0,0,0,,I- it became a robot...
@@ -210,7 +210,7 @@ Dialogue: 0,0:07:15.20,0:07:17.43,Default,ko,0,0,0,,젠장, 이렇게 되었으�
 Dialogue: 0,0:07:15.20,0:07:17.43,Default,en,0,0,0,,Damn. Well, then...
 Comment: 0,0:07:22.43,0:07:25.33,Default,ja,0,0,0,,チェンジ、ホーンガイスター！
 Dialogue: 0,0:07:22.43,0:07:25.33,Default,ko,0,0,0,,체인지! 혼 가이스터!
-Dialogue: 0,0:07:22.43,0:07:25.33,Default,en,0,0,0,,Change! Horn Geister!
+Dialogue: 0,0:07:22.43,0:07:25.33,Default,en,0,0,0,,Change,  Horn Geister!
 Comment: 0,0:07:34.68,0:07:36.76,Default,ja,0,0,0,,や、やりやがったな！
 Dialogue: 0,0:07:34.68,0:07:36.76,Default,ko,0,0,0,,어, 어디서 감히 그런 짓을!
 Dialogue: 0,0:07:34.68,0:07:36.76,Default,en,0,0,0,,N- now you've done it...
@@ -249,7 +249,7 @@ Dialogue: 0,0:08:32.68,0:08:37.24,Default,ko,0,0,0,,지금의 드릴 맥스 말�
 Dialogue: 0,0:08:32.68,0:08:37.24,Default,en,0,0,0,,Are there more friends else than that Drill Max just now, Blue Raker, or Green Raker?
 Comment: 0,0:08:37.36,0:08:43.16,Default,ja,0,0,0,,ああ、ほかにもダッシュマックスやスカイマックスがいる。全員が合わせて宇宙警察カイザースなんだ。
 Dialogue: 0,0:08:37.36,0:08:43.16,Default,ko,0,0,0,,그래. 외에도 대시 맥스나 스카이 맥스가 있어. 모두 모여서 우주 경찰 카이저스야.
-Dialogue: 0,0:08:37.36,0:08:43.16,Default,en,0,0,0,,Yeah. We have Dash Max and Sky Max, too. We are Space Police Kaisers altogether.
+Dialogue: 0,0:08:37.36,0:08:43.16,Default,en,0,0,0,,Yeah. We have Dash Max and Sky Max, too. We are Kaisers, the cosmic police altogether.
 Comment: 0,0:08:43.55,0:08:45.29,Default,ja,0,0,0,,そんなにいたんだ！・わん！
 Dialogue: 0,0:08:43.55,0:08:45.29,Default,ko,0,0,0,,-그렇게나 있었구나!\N-멍!
 Dialogue: 0,0:08:43.55,0:08:45.29,Default,en,0,0,0,,-There are so many of you!\N-{\i1}bark!
@@ -270,10 +270,10 @@ Dialogue: 0,0:09:02.62,0:09:04.22,Default,ko,0,0,0,,-가자, 아우여!\N-좋았
 Dialogue: 0,0:09:02.62,0:09:04.22,Default,en,0,0,0,,-Let's do it, brother!\N-Right!
 Comment: 0,0:09:20.70,0:09:22.65,Default,ja,0,0,0,,チェンジ！ブルーレイカー！
 Dialogue: 0,0:09:20.70,0:09:22.65,Default,ko,0,0,0,,체인지! 블루 레이커!
-Dialogue: 0,0:09:20.70,0:09:22.65,Default,en,0,0,0,,Change! Blue Raker!
+Dialogue: 0,0:09:20.70,0:09:22.65,Default,en,0,0,0,,Change,  Blue Raker!
 Comment: 0,0:09:27.53,0:09:29.92,Default,ja,0,0,0,,チェンジ！グリンレイカー！
 Dialogue: 0,0:09:27.53,0:09:29.92,Default,ko,0,0,0,,체인지! 그린 레이커!
-Dialogue: 0,0:09:27.53,0:09:29.92,Default,en,0,0,0,,Change! Green Raker!
+Dialogue: 0,0:09:27.53,0:09:29.92,Default,en,0,0,0,,Change,  Green Raker!
 Comment: 0,0:09:32.54,0:09:34.46,Default,ja,0,0,0,,レイカーブラザース！
 Dialogue: 0,0:09:32.54,0:09:34.46,Default,ko,0,0,0,,레이커 브라더스!
 Dialogue: 0,0:09:32.54,0:09:34.46,Default,en,0,0,0,,Raker Brothers!
@@ -282,13 +282,13 @@ Dialogue: 0,0:09:47.40,0:09:48.68,Default,ko,0,0,0,,바인드 크래시!
 Dialogue: 0,0:09:47.40,0:09:48.68,Default,en,0,0,0,,Bind Crash!
 Comment: 0,0:10:02.02,0:10:03.70,Default,ja,0,0,0,,チェンジ！ダッシュマックス！
 Dialogue: 0,0:10:02.02,0:10:03.70,Default,ko,0,0,0,,체인지! 대시 맥스!
-Dialogue: 0,0:10:02.02,0:10:03.70,Default,en,0,0,0,,Change! Dash Max!
+Dialogue: 0,0:10:02.02,0:10:03.70,Default,en,0,0,0,,Change,  Dash Max!
 Comment: 0,0:10:08.66,0:10:10.93,Default,ja,0,0,0,,チェンジ！ドリルマックス！
 Dialogue: 0,0:10:08.66,0:10:10.93,Default,ko,0,0,0,,체인지! 드릴 맥스!
-Dialogue: 0,0:10:08.66,0:10:10.93,Default,en,0,0,0,,Change! Drill Max!
+Dialogue: 0,0:10:08.66,0:10:10.93,Default,en,0,0,0,,Change,  Drill Max!
 Comment: 0,0:10:13.75,0:10:15.69,Default,ja,0,0,0,,チェンジ！スカイマックス！
 Dialogue: 0,0:10:13.75,0:10:15.69,Default,ko,0,0,0,,체인지! 스카이 맥스!
-Dialogue: 0,0:10:13.75,0:10:15.69,Default,en,0,0,0,,Change! Sky Max!
+Dialogue: 0,0:10:13.75,0:10:15.69,Default,en,0,0,0,,Change,  Sky Max!
 Comment: 0,0:10:21.85,0:10:23.79,Default,ja,0,0,0,,マックスチーム、見参！
 Dialogue: 0,0:10:21.85,0:10:23.79,Default,ko,0,0,0,,맥스 팀 등장!
 Dialogue: 0,0:10:21.85,0:10:23.79,Default,en,0,0,0,,Max Team's here!
@@ -342,13 +342,13 @@ Dialogue: 0,0:11:21.91,0:11:22.96,Default,ko,0,0,0,,예!
 Dialogue: 0,0:11:21.91,0:11:22.96,Default,en,0,0,0,,Understood!
 Comment: 0,0:11:26.02,0:11:29.20,Default,ja,0,0,0,,チェンジ！プテラーガイスト！
 Dialogue: 0,0:11:26.02,0:11:29.20,Default,ko,0,0,0,,체인지! 프테라 가이스트!
-Dialogue: 0,0:11:26.02,0:11:29.20,Default,en,0,0,0,,Change! Ptera Geist!
+Dialogue: 0,0:11:26.02,0:11:29.20,Default,en,0,0,0,,Change,  Ptera Geist!
 Comment: 0,0:11:33.57,0:11:36.99,Default,ja,0,0,0,,チェンジ！アーマーガイスト！
 Dialogue: 0,0:11:33.57,0:11:36.99,Default,ko,0,0,0,,체인지! 아머 가이스트!
-Dialogue: 0,0:11:33.57,0:11:36.99,Default,en,0,0,0,,Change! Armor Geist!
+Dialogue: 0,0:11:33.57,0:11:36.99,Default,en,0,0,0,,Change,  Armor Geist!
 Comment: 0,0:11:41.33,0:11:45.94,Default,ja,0,0,0,,チェンジ！サンダーガイスト！
 Dialogue: 0,0:11:41.33,0:11:45.94,Default,ko,0,0,0,,체인지! 썬더 가이스트!
-Dialogue: 0,0:11:41.33,0:11:45.94,Default,en,0,0,0,,Change! Thunder Geist!
+Dialogue: 0,0:11:41.33,0:11:45.94,Default,en,0,0,0,,Change,  Thunder Geist!
 Comment: 0,0:11:46.48,0:11:48.61,Default,ja,0,0,0,,グリンレイカー、奴らを～にするぞ！
 Dialogue: 0,0:11:46.48,0:11:48.61,Default,ko,0,0,0,,그린 레이커, 녀석들을 꼼짝 못하게 하자!
 Dialogue: 0,0:11:46.48,0:11:48.61,Default,en,0,0,0,,Green Raker, let's bind them!
@@ -360,19 +360,19 @@ Dialogue: 0,0:11:51.96,0:11:53.44,Default,ko,0,0,0,,폼 업!
 Dialogue: 0,0:11:51.96,0:11:53.44,Default,en,0,0,0,,Form Up!
 Comment: 0,0:12:17.01,0:12:20.11,Default,ja,0,0,0,,左右合体！ウルトラレイカー！
 Dialogue: 0,0:12:17.01,0:12:20.11,Default,ko,0,0,0,,좌우합체! 울트라 레이커!
-Dialogue: 0,0:12:17.01,0:12:20.11,Default,en,0,0,0,,Left Right Fusion! Ultra Raker!
+Dialogue: 0,0:12:17.01,0:12:20.11,Default,en,0,0,0,,Left&Right Fusion, Ultra Raker!
 Comment: 0,0:12:24.61,0:12:26.99,Default,ja,0,0,0,,マックスチーム！フォームアップ！
 Dialogue: 0,0:12:24.61,0:12:26.99,Default,ko,0,0,0,,맥스 팀! 폼 업!
 Dialogue: 0,0:12:24.61,0:12:26.99,Default,en,0,0,0,,Max Team! Form Up!
 Comment: 0,0:12:56.58,0:13:00.42,Default,ja,0,0,0,,三体合体！ゴッドマックス！
 Dialogue: 0,0:12:56.58,0:13:00.42,Default,ko,0,0,0,,삼체합체! 갓 맥스!
-Dialogue: 0,0:12:56.58,0:13:00.42,Default,en,0,0,0,,Triple Fusion! God Max!
+Dialogue: 0,0:12:56.58,0:13:00.42,Default,en,0,0,0,,Triple Fusion, God Max!
 Comment: 0,0:13:02.49,0:13:04.24,Default,ja,0,0,0,,キングローダー！
 Dialogue: 0,0:13:02.49,0:13:04.24,Default,ko,0,0,0,,킹 로더!
 Dialogue: 0,0:13:02.49,0:13:04.24,Default,en,0,0,0,,King Loader!
 Comment: 0,0:13:43.09,0:13:46.54,Default,ja,0,0,0,,巨大合体！キングエクスカイザー！
 Dialogue: 0,0:13:43.09,0:13:46.54,Default,ko,0,0,0,,거대합체! 킹 엑스카이저!
-Dialogue: 0,0:13:43.09,0:13:46.54,Default,en,0,0,0,,Giant Fusion! King Exkaiser!
+Dialogue: 0,0:13:43.09,0:13:46.54,Default,en,0,0,0,,Giant Fusion, King Exkaiser!
 Comment: 0,0:13:50.04,0:13:51.01,Default,ja,0,0,0,,やっちまえ！
 Dialogue: 0,0:13:50.04,0:13:51.01,Default,ko,0,0,0,,해치워라!
 Dialogue: 0,0:13:50.04,0:13:51.01,Default,en,0,0,0,,Get him!
@@ -402,7 +402,7 @@ Dialogue: 0,0:14:58.50,0:15:01.33,Default,ko,0,0,0,,합체해도 별로 강해�
 Dialogue: 0,0:14:58.50,0:15:01.33,Default,en,0,0,0,,They didn't become much stronger after they did, though.
 Comment: 0,0:15:02.88,0:15:06.08,Default,ja,0,0,0,,四將合体！マッドガイスター！
 Dialogue: 0,0:15:02.88,0:15:06.08,Default,ko,0,0,0,,사장군 합체! 매드 가이스터!
-Dialogue: 0,0:15:02.88,0:15:06.08,Default,en,0,0,0,,Quad General Fusion! Mad Geister!
+Dialogue: 0,0:15:02.88,0:15:06.08,Default,en,0,0,0,,Quad General Fusion, Mad Geister!
 Comment: 0,0:15:06.40,0:15:08.65,Default,ja,0,0,0,,おお、なんかでかくなったみたいだ。
 Dialogue: 0,0:15:06.40,0:15:08.65,Default,ko,0,0,0,,오오, 뭔가 커진 것 같아.
 Dialogue: 0,0:15:06.40,0:15:08.65,Default,en,0,0,0,,Hey, it's like we've become big!
@@ -629,7 +629,7 @@ Dialogue: 0,0:20:29.99,0:20:30.73,Default,ko,0,0,0,,폼 업!
 Dialogue: 0,0:20:29.99,0:20:30.73,Default,en,0,0,0,,Form Up!
 Comment: 0,0:20:41.97,0:20:45.15,Default,ja,0,0,0,,巨大合体！ドラゴンカイザー！
 Dialogue: 0,0:20:41.97,0:20:45.15,Default,ko,0,0,0,,거대합체! 드래곤 카이저!
-Dialogue: 0,0:20:41.97,0:20:45.15,Default,en,0,0,0,,Giant Fusion! Dragon Kaiser!
+Dialogue: 0,0:20:41.97,0:20:45.15,Default,en,0,0,0,,Giant Fusion, Dragon Kaiser!
 Comment: 0,0:20:46.73,0:20:47.21,Default,ja,0,0,0,,何？
 Dialogue: 0,0:20:46.73,0:20:47.21,Default,ko,0,0,0,,뭐야?
 Dialogue: 0,0:20:46.73,0:20:47.21,Default,en,0,0,0,,What!?
@@ -659,7 +659,7 @@ Dialogue: 0,0:22:23.49,0:22:29.26,Default,ko,0,0,0,,놈은 악당을 상대하�
 Dialogue: 0,0:22:23.49,0:22:29.26,Default,en,0,0,0,,He's a space merchant doing business with villains. People like him is the reason why evil won't stop in this world.
 Comment: 0,0:22:32.10,0:22:35.44,Default,ja,0,0,0,,チェンジ！トレイダーで～！
 Dialogue: 0,0:22:32.10,0:22:35.44,Default,ko,0,0,0,,체인지! 트레이더 ...왔수!
-Dialogue: 0,0:22:32.10,0:22:35.44,Default,en,0,0,0,,Change! Trader ...at your service!
+Dialogue: 0,0:22:32.10,0:22:35.44,Default,en,0,0,0,,Change,  Trader ...at your service!
 Comment: 0,0:22:38.87,0:22:41.97,Default,ja,0,0,0,,～茶ったな！でた、さてと。
 Dialogue: 0,0:22:38.87,0:22:41.97,Default,ko,0,0,0,,잘도 기억해냈구먼! 자, 그럼.
 Dialogue: 0,0:22:38.87,0:22:41.97,Default,en,0,0,0,,You do remember me! Well then.
@@ -686,7 +686,7 @@ Dialogue: 0,0:23:01.33,0:23:02.69,Default,ko,0,0,0,,소유자 이송 허가.
 Dialogue: 0,0:23:01.33,0:23:02.69,Default,en,0,0,0,,The owner agreed to the transportation.
 Comment: 0,0:23:30.28,0:23:34.86,Default,ja,0,0,0,,チェンジ！ダイノガイスト！
 Dialogue: 0,0:23:30.28,0:23:34.86,Default,ko,0,0,0,,체인지! 다이노가이스트!
-Dialogue: 0,0:23:30.28,0:23:34.86,Default,en,0,0,0,,Change! Dino Geist!
+Dialogue: 0,0:23:30.28,0:23:34.86,Default,en,0,0,0,,Change,  Dino Geist!
 Dialogue: 0,0:23:35.44,0:23:36.02,Default,ko,0,0,0,,이런!
 Dialogue: 0,0:23:35.44,0:23:36.02,Default,en,0,0,0,,Oh no!
 Comment: 0,0:23:35.44,0:23:38.55,Default,ja,0,0,0,,ナスカで起きたことも不思議だったね。
@@ -733,7 +733,7 @@ Dialogue: 0,0:25:15.02,0:25:15.72,Default,ko,0,0,0,,폼 업!
 Dialogue: 0,0:25:15.02,0:25:15.72,Default,en,0,0,0,,Form Up!
 Comment: 0,0:25:42.39,0:25:45.54,Default,ja,0,0,0,,超巨大合体！グレートエクスカイザー！
 Dialogue: 0,0:25:42.39,0:25:45.54,Default,ko,0,0,0,,초거대합체! 그레이트 엑스카이저!
-Dialogue: 0,0:25:42.39,0:25:45.54,Default,en,0,0,0,,Super Giant Fusion! Great Exkaiser!
+Dialogue: 0,0:25:42.39,0:25:45.54,Default,en,0,0,0,,Super Giant Fusion, Great Exkaiser!
 Comment: 0,0:25:47.33,0:25:51.10,Default,ja,0,0,0,,何！？ダイノシールド！
 Dialogue: 0,0:25:47.33,0:25:51.10,Default,ko,0,0,0,,뭐야!? 다이노 실드!
 Dialogue: 0,0:25:47.33,0:25:51.10,Default,en,0,0,0,,How dare you! Dino Shield!

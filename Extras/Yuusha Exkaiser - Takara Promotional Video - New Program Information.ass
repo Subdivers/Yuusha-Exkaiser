@@ -36,7 +36,7 @@ Dialogue: 0,0:00:25.22,0:00:26.96,Default,ko,0,0,0,,내 이름은 엑스카이�
 Dialogue: 0,0:00:25.22,0:00:26.96,Default,en,0,0,0,,My name is Exkaiser.
 Comment: 0,0:00:29.25,0:00:34.01,Default,ja,0,0,0,,宇宙海賊ガイスターから地球を守るためにやってきた宇宙警察だ。
 Dialogue: 0,0:00:29.25,0:00:34.01,Default,ko,0,0,0,,우주 해적 가이스터로부터 지구를 지키기 위해 온 우주 경찰이다.
-Dialogue: 0,0:00:29.25,0:00:34.01,Default,en,0,0,0,,I am a space police, and I came to protect the Earth from the space pirates Geisters.
+Dialogue: 0,0:00:29.25,0:00:34.01,Default,en,0,0,0,,I am a cosmic police, and I came to protect the Earth from the space pirates Geisters.
 Comment: 0,0:00:37.34,0:00:44.36,Default,ja,0,0,0,,宇宙海賊ガイスターは宇宙の平和を破壊し、あらゆる宝物を奪いまくる本当に悪い奴らなんだ。
 Dialogue: 0,0:00:37.34,0:00:44.36,Default,ko,0,0,0,,우주 해적 가이스터는 우주의 평화를 파괴하고, 보물이란 보물은 전부 빼앗는 참으로 나쁜 놈들이다.
 Dialogue: 0,0:00:37.34,0:00:44.36,Default,en,0,0,0,,Space pirates Geisters are the truly bad ones who destroy the peace of the Space, and steal all the treasures that you can think of.
@@ -45,7 +45,7 @@ Dialogue: 0,0:00:45.71,0:00:49.68,Default,ko,0,0,0,,그리고 이번에 놈들�
 Dialogue: 0,0:00:45.71,0:00:49.68,Default,en,0,0,0,,Their objective this time is to steal the treasures of the Earth.
 Comment: 0,0:00:51.60,0:00:57.09,Default,ja,0,0,0,,でも大丈夫。我々宇宙警察カイザーズが君たちの地球を守ってみせる。
 Dialogue: 0,0:00:51.60,0:00:57.09,Default,ko,0,0,0,,그렇지만 걱정 마라. 우리 우주 경찰 카이저스가 너희 지구를 지켜 보이겠다.
-Dialogue: 0,0:00:51.60,0:00:57.09,Default,en,0,0,0,,But do not worry. We, the space police Kaisers, will protect your Earth.
+Dialogue: 0,0:00:51.60,0:00:57.09,Default,en,0,0,0,,But do not worry. We, the cosmic police Kaisers, will protect your Earth.
 Comment: 0,0:01:07.55,0:01:12.41,Default,ja,0,0,0,,私、エクスカイザーは、普段はコウタ君の家の車に姿を変えている。
 Dialogue: 0,0:01:07.55,0:01:12.41,Default,ko,0,0,0,,나, 엑스카이저는 보통은 코우타 군 집의 차로 모습을 바꾸며 지낸다.
 Dialogue: 0,0:01:07.55,0:01:12.41,Default,en,0,0,0,,I, Exkaiser, usually stay transformed as a car in Kouta's house.
@@ -57,7 +57,7 @@ Dialogue: 0,0:02:03.93,0:02:05.81,Default,ko,0,0,0,,계속 등장: 카이저스�
 Dialogue: 0,0:02:03.93,0:02:05.81,Default,en,0,0,0,,Now appearing: The comrades of Kaisers
 Comment: 0,0:02:06.02,0:02:09.43,Default,ja,0,0,0,,では、われら宇宙警察カイザーズの仲間を紹介しよう。
 Dialogue: 0,0:02:06.02,0:02:09.43,Default,ko,0,0,0,,그럼 우리 우주 경찰 카이저스의 동료를 소개한다.
-Dialogue: 0,0:02:06.02,0:02:09.43,Default,en,0,0,0,,Now, let me introduce our comrades of space police Kaisers.
+Dialogue: 0,0:02:06.02,0:02:09.43,Default,en,0,0,0,,Now, let me introduce our comrades of cosmic police Kaisers.
 Comment: 0,0:02:10.63,0:02:18.42,Default,ja,0,0,0,,エクスカイザーに変形した私は、さらに大型トレイラー、キングローダーと巨大合体してキングエクスカイザーになる。
 Dialogue: 0,0:02:10.63,0:02:18.42,Default,ko,0,0,0,,엑스카이저로 변형한 나는, 게다가 대형 트레일러, 킹 로더하고 거대합체해서 킹 엑스카이저가 된다.
 Dialogue: 0,0:02:10.63,0:02:18.42,Default,en,0,0,0,,Transformed into Exkaiser, I combine further by doing Giant Fusion with a large trailer named King Loader.
@@ -72,7 +72,7 @@ Dialogue: 0,0:02:29.52,0:02:32.90,Default,ko,0,0,0,,동북 신칸센 로봇 그�
 Dialogue: 0,0:02:29.52,0:02:32.90,Default,en,0,0,0,,Tohoku Shinkansen Robot: Green Raker.
 Comment: 0,0:02:36.95,0:02:40.35,Default,ja,0,0,0,,さらに左右合体してウルトラレイカーになる。
 Dialogue: 0,0:02:36.95,0:02:40.35,Default,ko,0,0,0,,게다가 좌우합체해서 울트라 레이커가 된다.
-Dialogue: 0,0:02:36.95,0:02:40.35,Default,en,0,0,0,,Moreover, they perform Left Right Fusion to become Ultra Raker.
+Dialogue: 0,0:02:36.95,0:02:40.35,Default,en,0,0,0,,Moreover, they perform Left&Right Fusion to become Ultra Raker.
 Comment: 0,0:02:44.05,0:02:45.80,Default,ja,0,0,0,,そしてマックスチームの三人。
 Dialogue: 0,0:02:44.05,0:02:45.80,Default,ko,0,0,0,,그리고 맥스 팀의 3인.
 Dialogue: 0,0:02:44.05,0:02:45.80,Default,en,0,0,0,,The next are the three members of Max Team.
