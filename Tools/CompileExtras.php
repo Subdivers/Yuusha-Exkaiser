@@ -362,6 +362,7 @@ echo <<<TEXT
 Source: $source_dir
 Video: $video_dir
 Target: $target_dir
+
 TEXT;
 
 $dh = opendir($source_dir);
