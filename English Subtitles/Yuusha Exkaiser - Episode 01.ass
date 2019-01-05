@@ -8,42 +8,40 @@ ScaledBorderAndShadow: no
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: ../Yuusha Exkaiser - Episode 01[E686B69C].mkv
-Video File: ../Yuusha Exkaiser - Episode 01[E686B69C].mkv
+Audio File: ../Videos/Yuusha Exkaiser - Episode 01.mkv
+Video File: ../Videos/Yuusha Exkaiser - Episode 01.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 250
-Active Line: 283
-Video Position: 34708
+Active Line: 15
+Video Position: 2440
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Song,Arial,26,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
 Style: NextEpisodePreview,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
 Style: EpisodeTitle,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
-Style: SongMidEp,Arial,26,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
-Style: Song2end,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,30,1
+Style: SongIns,Arial,26,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+Style: SongED,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,30,1
 Style: SeriesTitle,Impact,40,&H003D3E9D,&H0000D2FF,&H002DA9B8,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,3.4,5,10,10,10,1
-Style: Song2,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,10,1
+Style: SongOP,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.92,0:00:18.62,Default,,0,0,0,,Brave Exkaiser
-Dialogue: 0,0:00:18.62,0:00:24.33,Default,,0,0,0,,Over a million of them shine with a blue light
-Dialogue: 0,0:00:24.96,0:00:31.01,Default,,0,0,0,,The shards of love have scattered
-Dialogue: 0,0:00:31.42,0:00:38.01,Default,,0,0,0,,It's brewing in this world
-Dialogue: 0,0:00:38.01,0:00:40.97,Default,,0,0,0,,A storm that you'll confront
-Dialogue: 0,0:00:40.97,0:00:44.52,Default,,0,0,0,,And because I believe in you
-Dialogue: 0,0:00:44.77,0:00:49.44,Default,,0,0,0,,I'm not afraid of anything
-Dialogue: 0,0:00:50.65,0:00:53.65,Default,,0,0,0,,GO WITH ME Exkaiser
-Dialogue: 0,0:00:54.11,0:00:57.07,Default,,0,0,0,,Courage and friendship
-Dialogue: 0,0:00:57.28,0:01:03.12,Default,,0,0,0,,That moment when we join our strength GATHER WAY
-Dialogue: 0,0:01:03.75,0:01:06.67,Default,,0,0,0,,GO WITH ME Exkaiser
-Dialogue: 0,0:01:07.04,0:01:10.04,Default,,0,0,0,,I'd almost forgotten it
-Dialogue: 0,0:01:10.17,0:01:18.39,Default,,0,0,0,,The fiery burning and important PASSIONATE feeling in my heart
-Dialogue: 0,0:01:33.21,0:01:36.34,Default,,0,0,0,,This mysterious and boundless Universe...
+Dialogue: 0,0:00:14.61,0:00:18.66,SeriesTitle,,0,0,0,,{\pos(334.133,309.733)\fad(150,270)}Brave{\fscx900} {}Exkaiser
+Dialogue: 0,0:00:18.66,0:00:24.37,SongOP,,0,0,0,,Over a million of them shine with a blue light
+Dialogue: 0,0:00:24.96,0:00:31.01,SongOP,,0,0,0,,The shards of love have scattered
+Dialogue: 0,0:00:31.42,0:00:38.01,SongOP,,0,0,0,,It's brewing in this world
+Dialogue: 0,0:00:38.01,0:00:40.97,SongOP,,0,0,0,,A storm that you'll confront
+Dialogue: 0,0:00:40.97,0:00:44.52,SongOP,,0,0,0,,And because I believe in you
+Dialogue: 0,0:00:44.77,0:00:49.44,SongOP,,0,0,0,,I'm not afraid of anything
+Dialogue: 0,0:00:50.65,0:00:53.65,SongOP,,0,0,0,,GO WITH ME Exkaiser
+Dialogue: 0,0:00:54.11,0:00:57.07,SongOP,,0,0,0,,Courage and friendship
+Dialogue: 0,0:00:57.28,0:01:03.12,SongOP,,0,0,0,,That moment when we join our strength GATHER WAY
+Dialogue: 0,0:01:03.75,0:01:06.67,SongOP,,0,0,0,,GO WITH ME Exkaiser
+Dialogue: 0,0:01:07.04,0:01:10.04,SongOP,,0,0,0,,I'd almost forgotten it
+Dialogue: 0,0:01:10.17,0:01:18.39,SongOP,,0,0,0,,The fiery burning and important PASSIONATE feeling in my heart
+Dialogue: 0,0:01:33.21,0:01:36.34,Default,,0,0,0,,The mysterious and boundless universe.
 Dialogue: 0,0:01:36.97,0:01:40.94,Default,,0,0,0,,Earth is but one tiny planet where life is known to exist.
 Dialogue: 0,0:01:41.74,0:01:45.00,Default,,0,0,0,,The humans don't know it yet....
 Dialogue: 0,0:01:45.58,0:01:49.04,Default,,0,0,0,,But there is a battle between good and evil for the peace of the cosmos...
@@ -60,8 +58,8 @@ Dialogue: 0,0:02:36.88,0:02:39.94,Default,,0,0,0,,Those scum... they're taking r
 Dialogue: 0,0:02:40.61,0:02:42.25,Default,,0,0,0,,This is Exkaiser of the cosmic police.
 Dialogue: 0,0:02:42.94,0:02:44.37,Default,,0,0,0,,The Geisters have taken refuge on Earth.
 Dialogue: 0,0:02:44.98,0:02:46.12,Default,,0,0,0,,Requesting backup!
-Dialogue: 0,0:02:58.10,0:03:02.49,Default,,0,0,0,,Our Family Car is an Alien!?
-Dialogue: 0,0:03:26.24,0:03:27.06,Default,,0,0,0,,Today's field trip!
+Dialogue: 0,0:02:58.28,0:03:02.49,EpisodeTitle,,0,0,0,,{\q2\fs64\t(0,230,\fs30)\fad(230,0)}Our Family Car is an Alien!?
+Dialogue: 0,0:03:26.24,0:03:27.09,Default,,0,0,0,,Today's field trip!
 Dialogue: 0,0:03:31.41,0:03:32.86,Default,,0,0,0,,Thank god, clear skies...
 Dialogue: 0,0:03:34.85,0:03:35.36,Default,,0,0,0,,Thank you~
 Dialogue: 0,0:03:37.69,0:03:39.33,Default,,0,0,0,,Brrrr! Cold!
@@ -70,8 +68,8 @@ Dialogue: 0,0:03:47.79,0:03:48.36,Default,,0,0,0,,Huh? What's that?
 Dialogue: 0,0:03:49.94,0:03:50.64,Default,,0,0,0,,What!?
 Dialogue: 0,0:04:05.41,0:04:06.64,Default,,0,0,0,,I wonder what that could be?
 Dialogue: 0,0:04:10.10,0:04:10.78,Default,,0,0,0,,Why, a dream!
-Dialogue: 0,0:04:22.98,0:04:24.93,Default,,0,0,0,,Holy crap! Nee-chan!
-Dialogue: 0,0:04:26.62,0:04:29.08,Default,,0,0,0,,Nee-chan, big problems! Wake up!
+Dialogue: 0,0:04:22.98,0:04:24.93,Default,,0,0,0,,Holy crap! Sis!
+Dialogue: 0,0:04:26.62,0:04:29.08,Default,,0,0,0,,Sis, big problems! Wake up!
 Dialogue: 0,0:04:29.24,0:04:31.28,Default,,0,0,0,,What is it... you're so noisy...
 Dialogue: 0,0:04:31.40,0:04:33.25,Default,,0,0,0,,Lightning hit the garage!
 Dialogue: 0,0:04:35.44,0:04:38.47,Default,,0,0,0,,You were just dreaming. Go pee and let me sleep.
@@ -299,18 +297,18 @@ Dialogue: 0,0:22:22.96,0:22:23.86,Default,,0,0,0,,I'm fine!
 Dialogue: 0,0:22:25.10,0:22:26.14,Default,,0,0,0,,Kouta-kun!
 Dialogue: 0,0:22:26.61,0:22:29.87,Default,,0,0,0,,My grandpa's camera must have brought me good luck!
 Dialogue: 0,0:22:31.65,0:22:32.98,Default,,0,0,0,,And a new friend!
-Dialogue: 0,0:22:47.97,0:22:55.97,Default,,0,0,0,,Faraway wind carries your dream
-Dialogue: 0,0:22:55.97,0:23:05.07,Default,,0,0,0,,What could you discover from this excited feeling
-Dialogue: 0,0:23:06.78,0:23:15.12,Default,,0,0,0,,Dreams get bigger strongly and fast
-Dialogue: 0,0:23:15.12,0:23:22.75,Default,,0,0,0,,Don't forget to be who you are
-Dialogue: 0,0:23:22.79,0:23:31.05,Default,,0,0,0,,Embrace your enthusiastic heart
-Dialogue: 0,0:23:31.05,0:23:39.06,Default,,0,0,0,,And try walking that path
-Dialogue: 0,0:23:44.48,0:23:46.02,Default,,0,0,0,,Preview for Next Episode
+Dialogue: 0,0:22:47.97,0:22:55.97,SongED,,0,0,0,,Faraway wind carries your dream
+Dialogue: 0,0:22:55.97,0:23:05.07,SongED,,0,0,0,,What could you discover from this excited feeling
+Dialogue: 0,0:23:06.78,0:23:15.12,SongED,,0,0,0,,Dreams get bigger strongly and fast
+Dialogue: 0,0:23:15.12,0:23:22.75,SongED,,0,0,0,,Don't forget to be who you are
+Dialogue: 0,0:23:22.79,0:23:31.05,SongED,,0,0,0,,Embrace your enthusiastic heart
+Dialogue: 0,0:23:31.05,0:23:39.06,SongED,,0,0,0,,And try walking that path
+Dialogue: 0,0:23:44.48,0:23:46.02,NextEpisodePreview,,0,0,0,,{\pos(325.344,314.667)}NEXT EPISODE PREVIEW
 Dialogue: 0,0:23:46.09,0:23:47.80,Default,,0,0,0,,Have you heard about the Linear Motor Car?
 Dialogue: 0,0:23:48.22,0:23:50.43,Default,,0,0,0,,It's the fastest train in the world!
 Dialogue: 0,0:23:51.30,0:23:52.88,Default,,0,0,0,,And that's what the Geisters found out!
 Dialogue: 0,0:23:53.36,0:23:57.09,Default,,0,0,0,,Exkaiser! Do something! Papa and mama are on board!
 Dialogue: 0,0:23:57.84,0:24:01.34,Default,,0,0,0,,Eh!? That Shinkansen is a friend of Exkaiser's!?
-Dialogue: 0,0:24:02.41,0:24:04.40,Default,,0,0,0,,Next on Brave Exkaiser,
+Dialogue: 0,0:24:02.41,0:24:04.40,Default,,0,0,0,,On the next episode of Brave Exkaiser,
 Dialogue: 0,0:24:05.02,0:24:06.84,Default,,0,0,0,,Save the Linear Motor Car!
 Dialogue: 0,0:24:07.61,0:24:10.09,Default,,0,0,0,,Is there an alien in your home, too?
