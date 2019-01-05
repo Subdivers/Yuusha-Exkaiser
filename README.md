@@ -1,5 +1,5 @@
 # Yuusha Exkaiser subtitles
-Yuusha Exkaiser miscellaneous subtitles, softsub extractions from C-M&PDSG's releases, and Silver Castle's subtitles timed to match other rip.
+Yuusha Exkaiser miscellaneous subtitles, manually typed softsub extractions from C-M&PDSG's releases, and Silver Castle's subtitles timed to match other rip.
 
 ## Credits
 - English Episode Subtitles: C-M&PDSG (episodes 1\~6), Silver Castle (episodes 7\~48).
