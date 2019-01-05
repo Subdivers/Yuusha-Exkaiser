@@ -13,20 +13,19 @@ Video File: ../Videos/Yuusha Exkaiser - Episode 24.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 312
-Active Line: 333
-Video Position: 34222
+Scroll Position: 164
+Active Line: 177
+Video Position: 16559
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: song,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
-Style: NextEpisodePreview,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
-Style: EpisodeTitle,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
-Style: SongIns,Arial,26,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
-Style: SongED,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,30,1
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NextEpisodePreview,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: EpisodeTitle,Candara,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
+Style: SongIns,Candara,28,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: SongED,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
 Style: SeriesTitle,Impact,40,&H003D3E9D,&H0000D2FF,&H002DA9B8,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,3.4,5,10,10,10,1
-Style: SongOP,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,10,1
+Style: SongOP,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,35,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -42,7 +41,7 @@ Dialogue: 0,0:00:54.37,0:00:57.33,SongOP,,0,0,0,,Courage and friendship
 Dialogue: 0,0:00:57.54,0:01:03.38,SongOP,,0,0,0,,That moment when we join our strength GATHER WAY
 Dialogue: 0,0:01:04.01,0:01:06.93,SongOP,,0,0,0,,GO WITH ME Exkaiser
 Dialogue: 0,0:01:07.34,0:01:10.30,SongOP,,0,0,0,,I'd almost forgotten it
-Dialogue: 0,0:01:10.43,0:01:18.65,SongOP,,0,0,0,,The fiery burning and important PASSIONATE feeling in my heart
+Dialogue: 0,0:01:10.43,0:01:18.65,SongOP,,0,0,0,,{\fsp-0.3\q2}The fiery burning and important PASSIONATE feeling in my heart
 Dialogue: 0,0:01:35.36,0:01:37.39,Default,,0,0,0,,The mysterious and vast universe.
 Dialogue: 0,0:01:42.84,0:01:48.15,Default,,0,0,0,,In this universe exists the evil life forms, \Nthe space pirates Geisters
 Dialogue: 0,0:01:48.43,0:01:51.64,Default,,0,0,0,,who've invaded Earth in order to obtain the treasures of mankind.
@@ -207,7 +206,7 @@ Dialogue: 0,0:11:14.96,0:11:17.96,SongIns,,0,0,0,,Courage and friendship
 Dialogue: 0,0:11:17.96,0:11:24.16,SongIns,,0,0,0,,That moment when we join our strength GATHER WAY
 Dialogue: 0,0:11:24.44,0:11:27.38,SongIns,,0,0,0,,GO WITH ME Exkaiser
 Dialogue: 0,0:11:27.98,0:11:30.90,SongIns,,0,0,0,,I'd almost forgotten it
-Dialogue: 0,0:11:30.90,0:11:39.24,SongIns,,0,0,0,,The fiery burning and important PASSIONATE feeling in my heart
+Dialogue: 0,0:11:30.90,0:11:39.24,SongIns,,0,0,0,,{\fsp-0.3\q2}The fiery burning and important PASSIONATE feeling in my heart
 Dialogue: 0,0:10:35.84,0:10:38.48,Default,,0,0,0,,Triple Fusion, God Max!
 Dialogue: 0,0:10:40.84,0:10:43.40,Default,,0,0,0,,God Sonic Buster!
 Dialogue: 0,0:10:48.66,0:10:50.10,Default,,0,0,0,,Form Up!

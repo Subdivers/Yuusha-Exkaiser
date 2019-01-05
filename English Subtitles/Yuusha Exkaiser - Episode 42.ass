@@ -19,13 +19,13 @@ Video Position: 34714
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: NextEpisodePreview,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
-Style: EpisodeTitle,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
-Style: SongIns,Arial,26,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
-Style: SongED,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,30,1
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NextEpisodePreview,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: EpisodeTitle,Candara,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
+Style: SongIns,Candara,28,&H00FFFFFF,&HFFFFFFFF,&HFFFFFFFF,&HE1FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+Style: SongED,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
 Style: SeriesTitle,Impact,40,&H003D3E9D,&H0000D2FF,&H002DA9B8,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,3.4,5,10,10,10,1
-Style: SongOP,Arial,26,&H00FFFFFF,&HAA000000,&HFFFFFFFF,&H84000000,-1,0,0,0,100,100,0,0,1,1.4,1.2,2,10,10,10,1
+Style: SongOP,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,35,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -41,7 +41,7 @@ Dialogue: 0,0:00:54.36,0:00:57.32,SongOP,,0,0,0,,Courage and friendship
 Dialogue: 0,0:00:57.53,0:01:03.37,SongOP,,0,0,0,,That moment when we join our strength GATHER WAY
 Dialogue: 0,0:01:04.00,0:01:06.92,SongOP,,0,0,0,,GO WITH ME Exkaiser
 Dialogue: 0,0:01:07.33,0:01:10.29,SongOP,,0,0,0,,I'd almost forgotten it
-Dialogue: 0,0:01:10.42,0:01:18.64,SongOP,,0,0,0,,The fiery burning and important PASSIONATE feeling in my heart
+Dialogue: 0,0:01:10.42,0:01:18.64,SongOP,,0,0,0,,{\fsp-0.3\q2}The fiery burning and important PASSIONATE feeling in my heart
 Dialogue: 0,0:01:35.35,0:01:37.38,Default,,0,0,0,,The mysterious and vast universe.
 Dialogue: 0,0:01:42.83,0:01:48.14,Default,,0,0,0,,In this universe exists the evil life forms, \Nthe space pirates Geisters
 Dialogue: 0,0:01:48.42,0:01:51.63,Default,,0,0,0,,who've invaded Earth in order to obtain the treasures of mankind.
