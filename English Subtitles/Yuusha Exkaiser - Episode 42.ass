@@ -1,4 +1,4 @@
-[Script Info]
+﻿[Script Info]
 PlayResX: 640
 PlayResY: 480
 WrapStyle: 0
@@ -247,7 +247,7 @@ Dialogue: 0,0:13:37.72,0:13:40.32,Default,,0,0,0,,It's like the Sky Restaurant d
 Dialogue: 0,0:13:40.79,0:13:43.30,Default,,0,0,0,,That couldn't be! It's not like it's a ghost!
 Dialogue: 0,0:13:43.30,0:13:44.72,Default,,0,0,0,,Well, that's true!
 Dialogue: 0,0:13:49.12,0:13:51.98,Default,,0,0,0,,»A fire has occurred at the 57th floor.«
-Dialogue: 0,0:13:52.28,0:13:55.56,Default,,0,0,0,,»Customers in the 57th floor, \Nplease evacuate promptly	.«
+Dialogue: 0,0:13:52.28,0:13:55.56,Default,,0,0,0,,»Customers in the 57th floor, \Nplease evacuate promptly.«
 Dialogue: 0,0:13:55.56,0:13:58.40,Default,,0,0,0,,Everyone, calm down! Please do as I tell you-...
 Dialogue: 0,0:13:58.40,0:13:59.48,Default,,0,0,0,,Escape quickly!
 Dialogue: 0,0:13:59.72,0:14:02.36,Default,,0,0,0,,»A fire has occurred at the 57th floor.«
