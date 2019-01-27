@@ -10,14 +10,14 @@ PlayResX: 640
 PlayResY: 480
 
 [Aegisub Project Garbage]
-Audio File: ../Yuusha Exkaiser - Video Version.mkv
-Video File: ../Yuusha Exkaiser - Video Version.mkv
+Audio File: ../Videos/Yuusha Exkaiser - Video Version.mkv
+Video File: ../Videos/Yuusha Exkaiser - Video Version.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 667
-Active Line: 707
-Video Position: 36981
+Scroll Position: 22
+Active Line: 23
+Video Position: 1025
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -210,7 +210,7 @@ Dialogue: 0,0:07:15.20,0:07:17.43,Default,ko,0,0,0,,젠장, 이렇게 되었으�
 Dialogue: 0,0:07:15.20,0:07:17.43,Default,en,0,0,0,,Damn. Well, then...
 Comment: 0,0:07:22.43,0:07:25.33,Default,ja,0,0,0,,チェンジ、ホーンガイスター！
 Dialogue: 0,0:07:22.43,0:07:25.33,Default,ko,0,0,0,,체인지! 혼 가이스터!
-Dialogue: 0,0:07:22.43,0:07:25.33,Default,en,0,0,0,,Change,  Horn Geister!
+Dialogue: 0,0:07:22.43,0:07:25.33,Default,en,0,0,0,,Change,  Horn Geist!
 Comment: 0,0:07:34.68,0:07:36.76,Default,ja,0,0,0,,や、やりやがったな！
 Dialogue: 0,0:07:34.68,0:07:36.76,Default,ko,0,0,0,,어, 어디서 감히 그런 짓을!
 Dialogue: 0,0:07:34.68,0:07:36.76,Default,en,0,0,0,,N- now you've done it...
@@ -614,7 +614,7 @@ Dialogue: 0,0:19:48.00,0:19:51.85,Default,ko,0,0,0,,합체할 수 없다면 이 
 Dialogue: 0,0:19:48.00,0:19:51.85,Default,en,0,0,0,,Being unable to combine, you won't be standing me anymore!
 Comment: 0,0:19:53.29,0:20:00.03,Default,ja,0,0,0,,ガイスターの悪党ども！私の合体を～て、勝手になると思ったら大きな間違いだ！
 Dialogue: 0,0:19:53.29,0:20:00.03,Default,ko,0,0,0,,가이스터 악당 놈들! 내 합체를 저지시켰다고 이길 거라고 생각하면 크나큰 오산이다!
-Dialogue: 0,0:19:53.29,0:20:00.03,Default,en,0,0,0,,You villaineous Geisters! If you think interrupting my combination will get you anywhere, you are gravely mistaken!
+Dialogue: 0,0:19:53.29,0:20:00.03,Default,en,0,0,0,,You villainous Geisters! If you think interrupting my combination will get you anywhere, you are gravely mistaken!
 Comment: 0,0:20:00.52,0:20:01.00,Default,ja,0,0,0,,ふん。
 Dialogue: 0,0:20:00.52,0:20:01.00,Default,ko,0,0,0,,흥.
 Dialogue: 0,0:20:00.52,0:20:01.00,Default,en,0,0,0,,Hmph.
