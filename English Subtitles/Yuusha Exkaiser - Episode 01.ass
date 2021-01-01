@@ -13,8 +13,9 @@ Video File: ../Videos/Yuusha Exkaiser - Episode 01.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Active Line: 15
-Video Position: 2440
+Scroll Position: 247
+Active Line: 280
+Video Position: 34510
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,7 +48,7 @@ Dialogue: 0,0:01:41.74,0:01:45.00,Default,,0,0,0,,The humans don't know it yet..
 Dialogue: 0,0:01:45.58,0:01:49.04,Default,,0,0,0,,But there is a battle between good and evil for the peace of the cosmos...
 Dialogue: 0,0:01:59.18,0:02:02.08,Default,,0,0,0,,Boss! This planet looks like fun!
 Dialogue: 0,0:02:03.21,0:02:05.89,Default,,0,0,0,,Looks like non one has touched it yet...
-Dialogue: 0,0:02:06.12,0:02:09.31,Default,,0,0,0,,Judging from its appearances, humans' greed is whirpooling.
+Dialogue: 0,0:02:06.12,0:02:09.31,Default,,0,0,0,,I can feel the swirling greed of humans.
 Dialogue: 0,0:02:11.40,0:02:13.10,Default,,0,0,0,,I like this place!
 Dialogue: 0,0:02:13.82,0:02:18.39,Default,,0,0,0,,There are swarms of humans there! There'll be a huge amount of treasures, too!
 Dialogue: 0,0:02:18.82,0:02:19.63,Default,,0,0,0,,That's right.
@@ -68,8 +69,8 @@ Dialogue: 0,0:03:47.79,0:03:48.36,Default,,0,0,0,,Huh? What's that?
 Dialogue: 0,0:03:49.94,0:03:50.64,Default,,0,0,0,,What!?
 Dialogue: 0,0:04:05.41,0:04:06.64,Default,,0,0,0,,I wonder what that could be?
 Dialogue: 0,0:04:10.10,0:04:10.78,Default,,0,0,0,,Why, a dream!
-Dialogue: 0,0:04:22.98,0:04:24.93,Default,,0,0,0,,Holy crap! Sis!
-Dialogue: 0,0:04:26.62,0:04:29.08,Default,,0,0,0,,Sis, big problems! Wake up!
+Dialogue: 0,0:04:22.98,0:04:24.93,Default,,0,0,0,,Holy crap! Sister!
+Dialogue: 0,0:04:26.62,0:04:29.08,Default,,0,0,0,,Sister, big problems! Wake up!
 Dialogue: 0,0:04:29.24,0:04:31.28,Default,,0,0,0,,What is it... you're so noisy...
 Dialogue: 0,0:04:31.40,0:04:33.25,Default,,0,0,0,,Lightning hit the garage!
 Dialogue: 0,0:04:35.44,0:04:38.47,Default,,0,0,0,,You were just dreaming. Go pee and let me sleep.
@@ -111,7 +112,7 @@ Dialogue: 0,0:07:32.63,0:07:34.74,Default,,0,0,0,,I ain't no bed wetter!
 Dialogue: 0,0:07:35.05,0:07:37.26,Default,,0,0,0,,-Oh really?\N-I ain't!
 Dialogue: 0,0:07:38.95,0:07:40.20,Default,,0,0,0,,Good morning!
 Dialogue: 0,0:07:40.79,0:07:42.27,Default,,0,0,0,,Excuse me!
-Dialogue: 0,0:07:42.37,0:07:43.22,Default,,0,0,0,,It's Tokuda-san!\N(Note: Tokuda comes from 'tokudane' meaning 'scoop')
+Dialogue: 0,0:07:42.37,0:07:43.22,Default,,0,0,0,,It's Mr. Tokuda!\N(Note: Tokuda comes from 'tokudane' meaning 'scoop')
 Dialogue: 0,0:07:43.60,0:07:45.86,Default,,0,0,0,,I bet he'll offer a scoop that everyone knows already...
 Dialogue: 0,0:07:46.54,0:07:48.45,Default,,0,0,0,,Chief! Have I got a scoop for you!
 Dialogue: 0,0:07:48.59,0:07:49.36,Default,,0,0,0,,Knew it.
@@ -120,7 +121,7 @@ Dialogue: 0,0:07:53.48,0:07:54.70,Default,,0,0,0,,And what is it this morning?
 Dialogue: 0,0:07:54.89,0:07:55.98,Default,,0,0,0,,Let me explain...
 Dialogue: 0,0:07:56.57,0:08:00.18,Default,,0,0,0,,Oh, look at that. Mind if I have a bite?
 Dialogue: 0,0:08:02.72,0:08:03.50,Default,,0,0,0,,Delicious!
-Dialogue: 0,0:08:03.95,0:08:08.79,Default,,0,0,0,,Tokuda-san, if you'd like, I have plenty left, so please help yourself.
+Dialogue: 0,0:08:03.95,0:08:08.79,Default,,0,0,0,,Mr. Tokuda, if you'd like, I have plenty left, so please help yourself.
 Dialogue: 0,0:08:09.06,0:08:10.82,Default,,0,0,0,,Thank you! I'll take some!
 Dialogue: 0,0:08:11.58,0:08:13.25,Default,,0,0,0,,-What did you come here for?\N-Huh?
 Dialogue: 0,0:08:13.99,0:08:15.89,Default,,0,0,0,,Ah! That's right! Let me tell you...
@@ -132,7 +133,7 @@ Dialogue: 0,0:08:26.90,0:08:29.48,Default,,0,0,0,,This is my own scoop that I'll
 Dialogue: 0,0:08:29.58,0:08:35.22,Default,,0,0,0,,Four full-scale dinosaur models have gone missing from the museum, the research facility and the amusement park.
 Dialogue: 0,0:08:36.13,0:08:40.49,Default,,0,0,0,,-This news is our station's exclusive scoop.\N-Too bad! Looks like the TV reporter knows about it already.
 Dialogue: 0,0:08:40.76,0:08:42.13,Default,,0,0,0,,As usual.
-Dialogue: 0,0:08:43.21,0:08:45.47,Default,,0,0,0,,Tokuda-san, cheer up.
+Dialogue: 0,0:08:43.21,0:08:45.47,Default,,0,0,0,,Mr. Tokuda, cheer up.
 Dialogue: 0,0:08:45.69,0:08:48.75,Default,,0,0,0,,Here's more of the Tsukudani you had just before.
 Dialogue: 0,0:08:49.82,0:08:51.90,Default,,0,0,0,,Is the dinosaur exhibition all right?
 Dialogue: 0,0:08:51.93,0:08:53.17,Default,,0,0,0,,The dinosaur exhibition?
